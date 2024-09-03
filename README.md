@@ -1,2 +1,3 @@
 # hello
 lalalalalalala
+print("hi")
